@@ -1,0 +1,18 @@
+/**
+ * 
+ */
+
+/**
+ * @author HP
+ *
+ */
+public class employee {
+
+	/**
+	 * 
+	 */
+	public employee() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
